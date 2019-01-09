@@ -53,7 +53,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Antonino Sirchia** - *Initial work* - [PurpleBooth](https://github.com/sirnino)
+* **Antonino Sirchia** - *Initial work* - [sirnino](https://github.com/sirnino)
 
 See also the list of [contributors](https://github.com/sirnino/docker-installer/graphs/contributors) who participated in this project.
 
