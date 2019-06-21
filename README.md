@@ -31,16 +31,7 @@ chmod +x docker-setup.sh
 Now that the script is properly configured, you can launch it, as follows:
 
 ```
-./docker-setup.sh <you_private_ip>
-```
-
-The only required parameter is the _<your_private_ip>_ that is the private IP of the machine where you're launching the script.
-This IP will be used to initialize the Docker Swarm.
-
-*e.g.* Supposing that your VM has the following private ip: 192.168.2.3 the script must be launched as follows:
-
-```
-./docker-setup.sh 192.168.2.3
+./docker-setup.sh
 ```
 
 ## Contributing
