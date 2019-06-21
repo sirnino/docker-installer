@@ -18,7 +18,7 @@ chmod +x /usr/local/bin/docker-compose
 docker-compose --version
 
 cd
-docker swarm init --advertise-addr $1 > swarm_init.out
+docker swarm init --advertise-addr $(hostname -I) > swarm_init.out
 
 #The following steps are required onlu on OpenStack VMs
 docker network rm ingress
