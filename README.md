@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The only prerequisite to use the shell script is to run it on a Linux Ubuntu machine.
+In order to use the shell script it's necessary to have GIT installed on a Linux Ubuntu machine.
 
 ### Installing
 
