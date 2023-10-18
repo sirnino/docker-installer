@@ -1,5 +1,8 @@
+## ⚠ Deprecation notice: this repository has been archived and is no longer mantained.
+
 # Docker Installer
-A shell script that helps in installing the docker daemon with several additive configuration
+
+A shell script that helps in installing the docker daemon with several additional configurations
 
 ## Getting Started
 
